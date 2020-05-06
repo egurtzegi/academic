@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ander Egurtzegi
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chargé de Recherche (tenured researcher)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Centre National de la Recherche Scientifique
+  url: "http://www.cnrs.fr/"
+- name: IKER UMR-5478
+  url: "http://www.iker.cnrs.fr/?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I work on the typology of sound change, with a focus on Basque.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Sound change
+# - Basque
+# - Galician
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +46,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:ander.egurtzegi@iker.cnrs.fr".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/egurtzegi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.es/citations?user=HyhNsDkAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/egurtzegi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/EgurtzegiCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a historical phonologist and occasional labphonista at the [Centre National de la Recherche Scientifique](http://www.cnrs.fr/) at [IKER UMR5478](http://www.iker.cnrs.fr/?lang=en). I mainly work on the typology of sound change, with a focus on the historical changes found in [Basque](https://en.wikipedia.org/wiki/Basque_language).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have worked on a wide range of topics including metathesis, u-fronting, nasalized aspiration, consonant cluster resolution, accentual shifts, final obstruent voicing, and acoustic descriptions of endangered dialects. You can find most of these papers in the publications section of this website.
+
+You might remember me from my time at the [Institute of Phonetics and Speech Processing](https://www.en.phonetik.uni-muenchen.de/index.html) of the [University of Munich](http://www.en.uni-muenchen.de/index.html), the Phonetics Lab of the [University of the Basque Country](https://www.ehu.eus/eu/home), or the briefer periods I spent at the [City University of New York](https://gc.cuny.edu/Home) or the [Complutense University of Madrid](https://www.ucm.es/english/).
+
+If my name rings a bell but my face and work don't match with it, note that there is yet another linguist that answers to A. Egurtzegi: Check out [my brother's](https://www.researchgate.net/profile/Aitor_Egurtzegi) work on psycholinguistics at Uni Zurich.
