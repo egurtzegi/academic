@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Teaching
 
 # View.
 #   1 = List
