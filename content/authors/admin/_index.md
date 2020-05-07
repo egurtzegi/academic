@@ -46,16 +46,16 @@ bio: I work on the typology of sound change, with a focus on Basque.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ander.egurtzegi@iker.cnrs.fr".
+  link: 'mailto:ander.egurtzegi@iker.cnrs.fr'  # For a direct email link, use "mailto:ander.egurtzegi@iker.cnrs.fr".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/egurtzegi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=HyhNsDkAAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/egurtzegi
+- icon: github
+  icon_pack: fab
+  link: https://github.com/egurtzegi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
