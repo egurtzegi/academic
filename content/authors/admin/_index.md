@@ -29,15 +29,15 @@ bio: I work on the typology of sound change, with a focus on Basque.
 
 # education:
 #   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
+#   - course: PhD in Linguistics
+#     institution: University of the Basque Country
+#     year: 2014
+#   - course: MA in Phonetics and Phonology
+#     institution: CSIC
 #     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+#   - course: MA in Linguistics
+#     institution: University of the Basque Country
+#     year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,6 +75,8 @@ user_groups:
 I am a historical phonologist and occasional labphonista at the [Centre National de la Recherche Scientifique](http://www.cnrs.fr/) at [IKER UMR5478](http://www.iker.cnrs.fr/?lang=en). I mainly work on the typology of sound change, with a focus on the historical changes found in [Basque](https://en.wikipedia.org/wiki/Basque_language).
 
 I have worked on a wide range of topics including metathesis, u-fronting, nasalized aspiration, consonant cluster resolution, accentual shifts, final obstruent voicing, and acoustic descriptions of endangered dialects. You can find most of these papers in the publications section of this website.
+
+I currently teach [Basque Phonology](/teaching/euskalfono) at the [UPPA](https://www.univ-pau.fr/en/home.html) and [Sound Change](/teaching/soundchange) at the UPV/EHU's [Linguistics Masters](https://www.ehu.eus/en/web/master/master-theoretical-experimental-linguistics).
 
 You might remember me from my time at the [Institute of Phonetics and Speech Processing](https://www.en.phonetik.uni-muenchen.de/index.html) of the [University of Munich](http://www.en.uni-muenchen.de/index.html), the Phonetics Lab of the [University of the Basque Country](https://www.ehu.eus/eu/home), or the briefer periods I spent at the [City University of New York](https://gc.cuny.edu/Home) or the [Complutense University of Madrid](https://www.ucm.es/english/).
 
