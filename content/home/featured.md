@@ -3,7 +3,7 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
@@ -66,3 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+* In press [2020] [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2. {{% staticref "papers/LAKvoicingLgPostprint.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+* 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/JASA_MixeanBasque(postprint).pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
+
+* 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353-1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/egurtzegi_2018_linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+* 2017 [with J. Blevins] Unexpected obstruent loss in initial obstruent-sonorant clusters: an apparent example from Basque. _Phonology_ 34.3, 507-522. {{% staticref "https://doi.org/10.1017/S0952675717000264" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/blevins_egurtzegi2017phonology.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+* 2017 Phonetically conditioned sound change: Contact induced /u/-fronting in Zuberoan Basque. _Diachronica_ 34.3, 331-367. {{% staticref "https://doi.org/10.1075/dia.34.3.02egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi-u-fronting-preprint.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}

@@ -39,12 +39,12 @@ Course topics:
 --------------------------------------------------
   * 2nd Reading 
   * Kinds of sound change <a href="KindsofSC.pdf" target="_blank" rel="noopener">[slides]</a>
---------------------------------------------------
 
 4.- Modern typologies of sound change
 --------------------------------------------------
   * 3rd Reading 
   * 4th Reading
+  * Typologies of sound change <a href="TypologiesofSC.pdf" target="_blank" rel="noopener">[slides]</a>
 
 5.- Phonetic motivation in sound change
 --------------------------------------------------
