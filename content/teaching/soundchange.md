@@ -49,6 +49,7 @@ Course topics:
 5.- Phonetic motivation in sound change
 --------------------------------------------------
   * 5th Reading
+  * Phonetic motivation in sound change <a href="PhoneticSC.pdf" target="_blank" rel="noopener">[slides]</a>
 
 6.- Models of linguistic diversification
 --------------------------------------------------
