@@ -54,6 +54,7 @@ Course topics:
 6.- Models of linguistic diversification
 --------------------------------------------------
   * 6th Reading
+  * Models of linguistic diversification <a href="Diversification.pdf" target="_blank" rel="noopener">[slides]</a>
 
 7.- Phases of sound change
 --------------------------------------------------
