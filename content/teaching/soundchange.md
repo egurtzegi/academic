@@ -21,7 +21,7 @@ This class offers an accessible introduction to the concept of sound change and 
 --------------------------------------------------
 Course topics:
 ==============
-  * Syllabus 2020 <a href="Syllabus.pdf" target="_blank" rel="noopener">[pdf]</a>
+  * Syllabus 2021 <a href="Syllabus.pdf" target="_blank" rel="noopener">[pdf]</a>
 
 
 --------------------------------------------------
