@@ -21,14 +21,13 @@ In all papers, the DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI o
 Journal publications
 ==============
 
-  * In press [with I. San Martin]. Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. _Lapurdum_. {{% staticref "papers/Zaldibar_04-18bidalia.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
-
-
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://muse.jhu.edu/article/757630/pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/JASA_MixeanBasque(postprint).pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
 
   * 2019 Metathesis of aspiration as the source of anticipatory voicelessness in Basque. _Journal of French Language Studies_ 29.2, 265–279. {{% staticref "https://doi.org/10.1017/S0959269518000339" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi2019.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+  * 2019 [with I. San Martin]. Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. In press in _Lapurdum_. {{% staticref "papers/Zaldibar_04-18bidalia.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353–1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/egurtzegi_2018_linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
