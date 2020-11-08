@@ -27,7 +27,7 @@ Journal publications
 
   * 2019 Metathesis of aspiration as the source of anticipatory voicelessness in Basque. _Journal of French Language Studies_ 29.2, 265–279. {{% staticref "https://doi.org/10.1017/S0959269518000339" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi2019.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2019 [with I. San Martin]. Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. In press in _Lapurdum_. {{% staticref "papers/Zaldibar_04-18bidalia.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2019 [with I. San Martin]. Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. In press in _Lapurdum_. {{% staticref "papers/Zaldibar_10-07_Azkena" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353–1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/egurtzegi_2018_linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
