@@ -29,7 +29,7 @@ Journal publications
 
   * 2019 [with I. San Martin] Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. In press in _Lapurdum_. {{% staticref "papers/Zaldibar_10-07_Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353–1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/egurtzegi_2018_linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353–1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi-2018-Linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2018 Herskarien ustezko ahoskabetasun asimilazioa eta euskal herskari zaharren gauzatzea [The apparent assimilation of voicelessness and the realization of old Basque stops]. _International Journal of Basque Linguistics and Philology_ (_ASJU_) 52, 189–206. {{% staticref "https://doi.org/10.1387/asju.20198" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "http://www.ehu.eus/ojs/index.php/ASJU/article/view/20198/18324" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
