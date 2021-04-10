@@ -21,6 +21,8 @@ In all papers, the DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI o
 Journal publications
 ==============
 
+  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} {{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "fab fab-github fab-lg"></i>{{% /staticref %}}.
+
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://muse.jhu.edu/article/757630/pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi&Carignan2020JASA.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
