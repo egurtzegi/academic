@@ -14,14 +14,14 @@ header:
   image: ""
 ---
 
-In all papers, the DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf.
+In all papers, the DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. <i class = "ai ai-arxiv ai-lg"></i> links to arXiv.
 
 --------------------------------------------------
 
 Journal publications
 ==============
 
-  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github Repository{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
+  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github repository{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
 
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://muse.jhu.edu/article/757630/pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
