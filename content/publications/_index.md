@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-In all papers, the DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. <i class = "ai ai-arxiv ai-lg"></i> links to arXiv.
+In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv.
 
 --------------------------------------------------
 
@@ -25,7 +25,7 @@ Journal publications
 
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://muse.jhu.edu/article/757630/pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi&Carignan2020JASA.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
+  * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://asa.scitation.org/doi/pdf/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
 
   * 2019 Metathesis of aspiration as the source of anticipatory voicelessness in Basque. _Journal of French Language Studies_ 29.2, 265–279. {{% staticref "https://doi.org/10.1017/S0959269518000339" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6AFAF84FE1A5D486CAADEE6555986E8C/S0959269518000339a.pdf/metathesis-of-aspiration-as-the-source-of-anticipatory-voicelessness-in-basque.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
