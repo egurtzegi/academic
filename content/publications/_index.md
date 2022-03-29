@@ -22,15 +22,17 @@ In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> li
 Journal publications
 ==============
 
+  * In press [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.linguisticsociety.org/sites/default/files/05_96.2Blevins_reduced-ed.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi&Carignan2020JASA.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
 
   * 2019 Metathesis of aspiration as the source of anticipatory voicelessness in Basque. _Journal of French Language Studies_ 29.2, 265–279. {{% staticref "https://doi.org/10.1017/S0959269518000339" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6AFAF84FE1A5D486CAADEE6555986E8C/S0959269518000339a.pdf/metathesis-of-aspiration-as-the-source-of-anticipatory-voicelessness-in-basque.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2019 [with I. San Martin] Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. In press in _Lapurdum_. {{% staticref "papers/Zaldibar_10-07_Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
-
   * 2018 On the phonemic status of nasalized /h̃/ in Modern Zuberoan Basque. _Linguistics_ 56.6, 1353–1367. {{% staticref "https://doi.org/10.1515/ling-2018-0024" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi-2018-Linguistics.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+  * 2018 [with I. San Martin] Morfema mugetako hots aldaketak Zaldibarko euskaran: Azterketa akustikoa [Morpheme-boundary sound changes in Zaldibar Basque: Acoustic study]. _Lapurdum_ 21. {{% staticref "https://journals.openedition.org/lapurdum/3697" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/lapurdum-3697.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Preprint{{% staticref "papers/Zaldibar_10-07_Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}]
 
   * 2018 Herskarien ustezko ahoskabetasun asimilazioa eta euskal herskari zaharren gauzatzea [The apparent assimilation of voicelessness and the realization of old Basque stops]. _International Journal of Basque Linguistics and Philology_ (_ASJU_) 52, 189–206. {{% staticref "https://doi.org/10.1387/asju.20198" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "http://www.ehu.eus/ojs/index.php/ASJU/article/view/20198/18324" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
@@ -93,3 +95,4 @@ Other publications
 ==============
 
   * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github repository{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
+  * 2021 [with G. Elordieta, O. Jauregi, D. Krajewska, M.L. Oñederra & I. Urrestarazu] _Nazioarteko Alfabeto Fonetikoa (2021ean moldatua)_ [Basque translation of _The International Phonetic Alphabet_]. International Phonetic Association. {{% staticref "papers/IPA_Kiel_2021_full_eus.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
