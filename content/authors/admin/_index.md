@@ -77,7 +77,7 @@ I am a historical phonologist and occasional labphonista at the [Centre National
 
 I have worked on a wide range of topics including metathesis, u-fronting, nasalized aspiration, consonant cluster resolution, accentual shifts, final obstruent voicing, and acoustic descriptions of endangered dialects. You can find most of these papers in the publications section of this website.
 
-I pronounce my name \[an̪deɾe'ɣ̞urt͡s̻eɣ̞i], but it can also be pronounced \[an̪deɾeɣ̞ur't͡s̻eɣ̞i]. Of course, I have answered to many other names (I'm happy to be the source of linguistic variation).
+I pronounce my name \[ˈan̪deɾ eˈɣ̞urt͡s̻eɣ̞i], but it can also be pronounced \[ˈan̪der eɣ̞urˈt͡s̻eɣ̞i]. Of course, I have answered to many other names, including \[ˈʔandɐ], \[ˈændɚ], \[ˈændə(ɹ)], \[ˈɑn.dər], \[ˈɑndɛɾs] and even \[anˈden]. We don't have the space here for the variants of my last name, but that one runs wild. You can choose any variant or create a new one, as I'm happy to be the source of linguistic variation.
 
 You might remember me from my time at the [Institute of Phonetics and Speech Processing](https://www.en.phonetik.uni-muenchen.de/index.html) of the [University of Munich](http://www.en.uni-muenchen.de/index.html), the Phonetics Lab of the [University of the Basque Country](https://www.ehu.eus/eu/home), or the briefer periods I spent at the [City University of New York](https://gc.cuny.edu/Home) or the [Complutense University of Madrid](https://www.ucm.es/english/).
 
