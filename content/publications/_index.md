@@ -22,7 +22,7 @@ In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> li
 Journal publications
 ==============
 
-  * In press [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2022 [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.linguisticsociety.org/sites/default/files/05_96.2Blevins_reduced-ed.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
@@ -96,3 +96,4 @@ Other publications
 
   * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github repository{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
   * 2021 [with G. Elordieta, O. Jauregi, D. Krajewska, M.L. Oñederra & I. Urrestarazu] _Nazioarteko Alfabeto Fonetikoa (2021ean moldatua)_ [Basque translation of _The International Phonetic Alphabet_]. International Phonetic Association. {{% staticref "papers/IPA_Kiel_2021_full_eus.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2014 _Towards a phonetically grounded diachronic phonology of Basque_. PhD thesis, University of the Basque Country (UPV/EHU). {{% staticref "papers/Egurtzegi2014.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
