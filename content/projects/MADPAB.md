@@ -28,16 +28,17 @@ This project aims to improve our current understanding of Basque historical phon
 
 Project Members:
 ==============
+Click <i class = "fa-solid fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF page, <i class = "ai ai-orcid ai-lg"></i> for their ORCID page, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
 
 #### PI:
 
- * Ander Egurtzegi (CNRS-IKER) [webpage](https://egurtzegi.github.io/)
+ * Ander Egurtzegi (CNRS-IKER) {{% staticref "https://egurtzegi.github.io/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://osf.io/mhdj4/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-3451-323X" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "http://scholar.google.com/citations?user=HyhNsDkAAAAJ&hl/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Ander-Egurtzegi/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/AnderEgurtzegi/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
 
 #### Research Team
 
- * Juliette Blevins (CUNY-GC) [webpage](https://julietteblevins.ws.gc.cuny.edu/)
+ * Juliette Blevins (CUNY-GC) {{% staticref "https://julietteblevins.ws.gc.cuny.edu/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
 
- * Christopher Carignan (UCL) [webpage](https://www.christophercarignan.com/)
+ * Christopher Carignan (UCL) {{% staticref "https://www.christophercarignan.com/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
 
  * Gorka Elordieta (UPV/EHU) {{% staticref "https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
 
