@@ -28,7 +28,7 @@ This project aims to improve our current understanding of Basque historical phon
 
 Project Members:
 ==============
-Click on the <i class = "fas fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
+Click on the <i class = "fas fa-user"></i> next to each project member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
 
 #### PI
 
