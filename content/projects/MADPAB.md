@@ -32,19 +32,19 @@ Click <i class = "fa-solid fa-user"></i> next to each member to visit their pers
 
 #### PI:
 
- * Ander Egurtzegi (CNRS-IKER) {{% staticref "https://egurtzegi.github.io/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://osf.io/mhdj4/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-3451-323X" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "http://scholar.google.com/citations?user=HyhNsDkAAAAJ&hl/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Ander-Egurtzegi/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/AnderEgurtzegi/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
+ * Ander Egurtzegi (CNRS-IKER) {{% staticref "https://egurtzegi.github.io/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://osf.io/mhdj4/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-3451-323X/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "http://scholar.google.com/citations?user=HyhNsDkAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Ander-Egurtzegi/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/AnderEgurtzegi/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
 
 #### Research Team
 
- * Juliette Blevins (CUNY-GC) {{% staticref "https://julietteblevins.ws.gc.cuny.edu/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
+ * Juliette Blevins (CUNY-GC) {{% staticref "https://julietteblevins.ws.gc.cuny.edu/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=CBEWVrEAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}}
 
- * Christopher Carignan (UCL) {{% staticref "https://www.christophercarignan.com/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
+ * Christopher Carignan (UCL) {{% staticref "https://www.christophercarignan.com/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://osf.io/5ucv8/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-1565-3691/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=naAMMOwAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Christopher-Carignan/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
- * Gorka Elordieta (UPV/EHU) {{% staticref "https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
+ * Gorka Elordieta (UPV/EHU) {{% staticref "https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0003-1235-6998/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=qMSZUasAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Gorka-Elordieta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/GorkaElordieta/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
 
- * Dorota Krajewska (UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska-2/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
+ * Dorota Krajewska (UPV/EHU) {{% staticref "https://orcid.org/0000-0002-6909-985X/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=N1fwk4IAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
- * Iñigo Urrestarazu (CNRS-IKER, UPPA & UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
+ * Iñigo Urrestarazu-Porta (CNRS-IKER, UPPA & UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
 --------------------------------------------------
 
