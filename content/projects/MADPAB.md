@@ -28,7 +28,7 @@ This project aims to improve our current understanding of Basque historical phon
 
 Project Members:
 ==============
-Click <i class = "fa-solid fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF page, <i class = "ai ai-orcid ai-lg"></i> for their ORCID page, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
+Click <i class = "fa-solid fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
 
 #### PI:
 
@@ -62,9 +62,9 @@ Project Publications:
 
 Organized Conferences & Workshops:
 ==============
-  * Understanding sound change <a href="https://understandingsoundchange.netlify.app/" target="_blank" rel="noopener">[webpage]</a>
+  * [Understanding sound change]("https://understandingsoundchange.netlify.app/")
   Workshop held at Donostia/San Sebastián (27/01/2022). It was part of OCP-19.
-  * 19th Old World Conference on Phonology <a href="https://sulfsbjorninn.wixsite.com/ocp19/" target="_blank" rel="noopener">[webpage]</a>
+  * [19th Old World Conference on Phonology]("https://sulfsbjorninn.wixsite.com/ocp19/")
   Conference held at Donostia/San Sebastián (26/01/2022-28/01/2022).
 
 --------------------------------------------------
