@@ -30,7 +30,7 @@ Project Members:
 ==============
 Click <i class = "fa-solid fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
 
-#### PI:
+#### PI
 
  * Ander Egurtzegi (CNRS-IKER) {{% staticref "https://egurtzegi.github.io/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}} {{% staticref "https://osf.io/mhdj4/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-3451-323X/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "http://scholar.google.com/citations?user=HyhNsDkAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Ander-Egurtzegi/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/AnderEgurtzegi/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
 
