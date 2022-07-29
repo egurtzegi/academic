@@ -28,7 +28,7 @@ This project aims to improve our current understanding of Basque historical phon
 
 Project Members:
 ==============
-Click <i class = "fa-solid fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
+Click on the <i class = "fas fa-user"></i> next to each member to visit their personal webpage, <i class = "ai ai-osf ai-lg"></i> for their OSF, <i class = "ai ai-orcid ai-lg"></i> for their ORCID, <i class = "ai ai-google-scholar ai-lg"></i> for their Google Scholar, <i class = "ai ai-researchgate ai-lg"></i> for their ResearchGate, and <i class = "ai ai-academia ai-lg"></i> for their Academia.edu.
 
 #### PI
 
@@ -50,22 +50,25 @@ Click <i class = "fa-solid fa-user"></i> next to each member to visit their pers
 
 Project Publications:
 ==============
-  * Egurtzegi, A. & G. Elordieta. 2022. A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+ * Egurtzegi, A. & G. Elordieta. 2022. A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * Egurtzegi, A. 2022. Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+ * Egurtzegi, A. 2022. Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * Elordieta, G. & A. Egurtzegi. In press. “Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa” [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_.
+ * Elordieta, G. & A. Egurtzegi. In press. “Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa” [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_.
 
-  * Blevins, J. & A. Egurtzegi. Accepted. “Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action”. Accepted for publication in _Linguistic Typology_.
+ * Blevins, J. & A. Egurtzegi. Accepted. “Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action”. Accepted for publication in _Linguistic Typology_.
 
 --------------------------------------------------
 
 Organized Conferences & Workshops:
 ==============
-  * [Understanding sound change]("https://understandingsoundchange.netlify.app/")
-  Workshop held at Donostia/San Sebastián (27/01/2022). It was part of OCP-19.
-  * [19th Old World Conference on Phonology]("https://sulfsbjorninn.wixsite.com/ocp19/")
-  Conference held at Donostia/San Sebastián (26/01/2022-28/01/2022).
+ * [Understanding sound change]("https://understandingsoundchange.netlify.app/")
+
+ Workshop held at Donostia/San Sebastián (27/01/2022). It was part of OCP-19.
+
+ * [19th Old World Conference on Phonology]("https://sulfsbjorninn.wixsite.com/ocp19/")
+
+ Conference held at Donostia/San Sebastián (26/01/2022-28/01/2022).
 
 --------------------------------------------------
 
