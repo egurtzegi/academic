@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv.
+In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv. <i class = "fas fa-code"></i> links to the code repo.
 
 
 --------------------------------------------------
@@ -96,6 +96,6 @@ Outreach publications
 Other publications
 ==============
 
-  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github repository{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "fas fa-code"></i>{{% /staticref %}}].
+  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Github repository {{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class = "fas fa-code"></i>{{% /staticref %}}].
   * 2021 [with G. Elordieta, O. Jauregi, D. Krajewska, M.L. Oñederra & I. Urrestarazu] _Nazioarteko Alfabeto Fonetikoa (2021ean moldatua)_ [Basque translation of _The International Phonetic Alphabet_]. International Phonetic Association. {{% staticref "papers/IPA_Kiel_2021_full_eus.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
   * 2014 _Towards a phonetically grounded diachronic phonology of Basque_. PhD thesis, University of the Basque Country (UPV/EHU). {{% staticref "papers/Egurtzegi2014.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
