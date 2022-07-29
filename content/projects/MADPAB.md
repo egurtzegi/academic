@@ -1,5 +1,6 @@
 ---
 title: Modern approaches to diachronic phonology applied to Basque (MADPAB)
+date: 2021-01-01
 
 # View.
 #   1 = List
@@ -18,6 +19,7 @@ header:
 --------------------------------------------------
 
 Call: ANR-AAPG2020
+
 Duration: Jan 2021 - Dec 2024
 
 This project aims to improve our current understanding of Basque historical phonology by incorporating recent advances in theories of phonetically based sound change. We aim to combine the historical-comparative method with phonetic detail and quantitative typological data for studying the historical sound patterns of a language isolate such as Basque, in which the comparative method finds most difficulties. This project will advance our knowledge of general typologies of sound change with a thorough analysis of uncommon changes. The areas of interest cover nasalized /h̃/, stops, sibilants, vowels, and the accentual system. The long-term significance of the project lies in contributing to the reconstruction of the phonology of Proto-Basque as well as to typologies of phonetically based sound change and change in situations of linguistic contact. An indirect major benefit of the project is that it will provide a new methodology for the study of the historical phonologies of isolates.
@@ -39,10 +41,11 @@ Project Members:
 
  * Gorka Elordieta (UPV/EHU) [webpage](https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/)
 
- * Dorota Krajewska (UPV/EHU) [webpage](https://www.researchgate.net/profile/Dorota-Krajewska-2/)
+ * Dorota Krajewska (UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska-2/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
- * Iñigo Urrestarazu (CNRS-IKER, UPPA & UPV/EHU) [webpage](https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/)
+ * Iñigo Urrestarazu (CNRS-IKER, UPPA & UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
+--------------------------------------------------
 
 Project Publications:
 ==============
@@ -70,7 +73,7 @@ Invited Talks & Conference Contributions:
 1.  Egurtzegi, A. 2021. Sibilant contrasts and sibilant merger in Mixean Basque. Lancaster Phonetics Laboratory (U. of Lancaster, UK).
 2.  Egurtzegi, A. 2021. “Reconstructing Proto-Basque prosody and the development of the modern Basque prosodic diversity”. Séminaire CLLE-ERSSàB (Université Bordeaux Montaigne, France).
 3.  Egurtzegi, A. 2021. Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. Séminaires de Recherches en Phonétique et Phonologie (U. Sorbonne Nouvelle, Paris, France).
-4.  Elordieta, G. & A. Egurtzegi. 2022. “Lexical and non-lexical tones in Northern Bizkaian Basque”. UD Workshop on Basque Linguistics (University of Deusto, Spain).
+4.  Elordieta, G. & A. Egurtzegi. 2021. “Lexical and non-lexical tones in Northern Bizkaian Basque”. UD Workshop on Basque Linguistics (University of Deusto, Spain).
 5.  Elordieta, G. & A. Egurtzegi. 2022. “Lexical and non-lexical tones in Basque revisited”. OCP-19 (University of Deusto, Spain).
 6.  Elordieta, G. & A. Egurtzegi. 2022. “A new proposal for the tonal representation of phonological phrases in Northern Bizkaian Basque”. 31st Colloquium of Generative Grammar (University of the Balearic Islands).
 7.  Egurtzegi , A., J. Cronenberg, M. Gubian, J. Harrington & H. Ruch. 2022. “From post-lexicality to phonologization: Andalusian /s/-aspiration at the word boundary”. LabPhon18 (held online due to COVID-19).
