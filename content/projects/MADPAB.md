@@ -1,6 +1,5 @@
 ---
-title: Modern approaches to diachronic phonology applied to Basque (MADPAB) (ANR-AAPG2020, 2021-2024)
-date: 2022-07-05
+title: Modern approaches to diachronic phonology applied to Basque (MADPAB)
 
 # View.
 #   1 = List
@@ -16,9 +15,12 @@ header:
 
 
 ---
+--------------------------------------------------
 
-This project aims to improve our current understanding of Basque historical phonology by incorporating recent advances in theories of phonetically based sound change. We aim to combine the historical-comparative method with phonetic detail and quantitative typological data for studying the historical sound patterns of a language isolate such as Basque, in which the comparative method finds most difficulties. This project will advance our knowledge of general typologies of sound change with a thorough analysis of uncommon changes. The areas of interest cover nasalized /h~/, stops, sibilants, vowels, and the accentual system. The long-term significance of the project lies in contributing to the reconstruction of the phonology of Proto-Basque as well as to typologies of phonetically based sound change and change in situations of linguistic contact. An indirect major benefit of the project is that it will provide a new methodology for the study of the historical phonologies of isolates.
-*
+Call: ANR-AAPG2020
+Duration: Jan 2021 - Dec 2024
+
+This project aims to improve our current understanding of Basque historical phonology by incorporating recent advances in theories of phonetically based sound change. We aim to combine the historical-comparative method with phonetic detail and quantitative typological data for studying the historical sound patterns of a language isolate such as Basque, in which the comparative method finds most difficulties. This project will advance our knowledge of general typologies of sound change with a thorough analysis of uncommon changes. The areas of interest cover nasalized /h̃/, stops, sibilants, vowels, and the accentual system. The long-term significance of the project lies in contributing to the reconstruction of the phonology of Proto-Basque as well as to typologies of phonetically based sound change and change in situations of linguistic contact. An indirect major benefit of the project is that it will provide a new methodology for the study of the historical phonologies of isolates.
 
 --------------------------------------------------
 
