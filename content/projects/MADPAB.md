@@ -39,7 +39,7 @@ Project Members:
 
  * Christopher Carignan (UCL) [webpage](https://www.christophercarignan.com/)
 
- * Gorka Elordieta (UPV/EHU) [webpage](https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/)
+ * Gorka Elordieta (UPV/EHU) {{% staticref "https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/" "newtab" %}}<i class = "fa-solid fa-user"></i>{{% /staticref %}}
 
  * Dorota Krajewska (UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska-2/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
