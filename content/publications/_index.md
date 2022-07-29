@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv. <i class = "fas fa-code"></i> links to the code repo.
+In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv. <i class = "fas fa-code"></i> links to the code / repo.
 
 
 --------------------------------------------------
