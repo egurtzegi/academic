@@ -81,7 +81,7 @@ Invited Talks & Conference Contributions:
 3.  Egurtzegi, A. 2021. Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. Séminaires de Recherches en Phonétique et Phonologie (U. Sorbonne Nouvelle, Paris, France).
 4.  Elordieta, G. & A. Egurtzegi. 2021. “Lexical and non-lexical tones in Northern Bizkaian Basque”. UD Workshop on Basque Linguistics (University of Deusto, Spain).
 5.  Elordieta, G. & A. Egurtzegi. 2022. “Lexical and non-lexical tones in Basque revisited”. OCP-19 (University of Deusto, Spain).
-6.  Zuloaga,E. & D. Krajewska. 2022. “Sociohistorical explanations for sibilant mergers in Basque”, 11th Historical Sociolinguistics Network Conference (University of Murcia, Spain).
+6.  Zuloaga, E. & D. Krajewska. 2022. “Sociohistorical explanations for sibilant mergers in Basque”, 11th Historical Sociolinguistics Network Conference (University of Murcia, Spain).
 7.  Elordieta, G. & A. Egurtzegi. 2022. “A new proposal for the tonal representation of phonological phrases in Northern Bizkaian Basque”. 31st Colloquium of Generative Grammar (University of the Balearic Islands, Spain).
 8.  Egurtzegi , A., J. Cronenberg, M. Gubian, J. Harrington & H. Ruch. 2022. “From post-lexicality to phonologization: Andalusian /s/-aspiration at the word boundary”. LabPhon18 (held online due to COVID-19).
 9.  Egurtzegi , A., J. Cronenberg, M. Gubian, J. Harrington & H. Ruch. 2022. “La aspiración de /s/ en andaluz: el largo camino de la post-lexicalidad a la lexicalización”. Congrès International de Linguistique et de Philologie Romanes 30 (University of La Laguna, Spain).
