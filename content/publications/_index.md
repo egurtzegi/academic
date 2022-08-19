@@ -24,6 +24,8 @@ Journal publications
 
   * 2022 [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
+  * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. In press in _Phonological Data & Analysis_ 4. {{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
+
   * 2022 Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.linguisticsociety.org/sites/default/files/05_96.2Blevins_reduced-ed.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
