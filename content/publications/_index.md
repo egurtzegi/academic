@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv. <i class = "fas fa-code"></i> links to the code / repo.
+In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> links to a freely accessible pdf. The DOI icon <i class = "ai ai-doi ai-lg"></i> links to the DOI or paper webpage (whenever available) and the arXiv icon <i class = "ai ai-arxiv ai-lg"></i> links to arXiv. <i class = "fas fa-code"></i> links to the code / repo. <i class = "ai ai-osf ai-lg"></i> links to the OSF repository (code + extra materials).
 
 
 --------------------------------------------------
@@ -22,7 +22,7 @@ In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> li
 Journal publications
 ==============
 
-  * 2022 [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "papers/A history of the Basque prosodic systems-Azkena.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2022 [with G. Elordieta] A history of the Basque prosodic systems. In press in _Diachronica_ 39. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. In press in _Phonological Data & Analysis_ 4. {{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
 
@@ -44,7 +44,7 @@ Journal publications
 
   * 2017 Phonetically conditioned sound change: Contact induced /u/-fronting in Zuberoan Basque. _Diachronica_ 34.3, 331–367. {{% staticref "https://doi.org/10.1075/dia.34.3.02egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "papers/Egurtzegi-u-fronting-preprint.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2015 Different distributions of contrastive vowel nasalization in Basque. _Loquens: Spanish Journal of Speech Sciences_ 2.1, e017. {{% staticref "http://dx.doi.org/10.3989/loquens.2015.017" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "http://loquens.revistas.csic.es/index.php/loquens/article/view/22/63" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2015 Different distributions of contrastive vowel nasalization in Basque. _Loquens: Spanish Journal of Speech Sciences_ 2.1, e017. {{% staticref "http://dx.doi.org/10.3989/loquens.2015.017" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://loquens.revistas.csic.es/index.php/loquens/article/view/22/63" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2013 [2018] Ekialdeko /o/-ren igoeraren testuinguru fonologikoaren bila [Looking for the phonological context of /o/-raising in Eastern Basque]. _International Journal of Basque Linguistics and Philology_ (_ASJU_) 48.2, 257–266. {{% staticref "https://doi.org/10.1387/asju.18683" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "http://www.ehu.eus/ojs/index.php/ASJU/article/view/18683/17582" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
