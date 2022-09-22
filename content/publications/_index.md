@@ -21,8 +21,9 @@ In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> li
 
 Journal publications
 ==============
+  * Accepted [with J. Blevins] Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. Accepted for publication in _Linguistic Typology_.
 
-  * 2022 [2023] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2023 [online 2022] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. In press in _Phonological Data & Analysis_ 4. {{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
 
@@ -64,6 +65,8 @@ Journal publications
 
 Book chapters
 ==============
+  * In press [with G. Elordieta] Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_.
+
   * 2019 [with B. Ariztimuño] /f/-ren sarrera eta sorrera euskaran [Introduction and inception of /f/ in Basque], in Epelde & Jauregi (eds.), _Bihotz ahots. M.L. Oñederra irakaslearen omenez_, Bilbao: UPV/EHU, 197–213. {{% staticref "papers/EgurtzegiAriztimuno2019.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2018 Nasalized mid back vowel raising in Gascon and Basque. In Recasens & Sáchez-Miret (eds.), _Production and perception mechanisms of sound change_. Munich: Lincom, 173–187. {{% staticref "papers/Egurtzegi2018Nasalized-o-raising.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
@@ -98,6 +101,6 @@ Outreach publications
 Other publications
 ==============
 
-  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class="fab fa-github"></i>{{% /staticref %}}. 
+  * 2021 [with C. Carignan] Principal components variable importance reconstruction (PC-VIR): Exploring predictive importance in multicollinear acoustic speech data. _arXiv:2102.04740 [stat.ME]_. {{% staticref "https://arxiv.org/abs/2102.04740" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://arxiv.org/pdf/2102.04740.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://github.com/ChristopherCarignan/PC-VIR" "newtab" %}}<i class="fab fa-github"></i>{{% /staticref %}}
   * 2021 [with G. Elordieta, O. Jauregi, D. Krajewska, M.L. Oñederra & I. Urrestarazu] _Nazioarteko Alfabeto Fonetikoa (2021ean moldatua)_ [Basque translation of _The International Phonetic Alphabet_]. International Phonetic Association. {{% staticref "papers/IPA_Kiel_2021_full_eus.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
   * 2014 _Towards a phonetically grounded diachronic phonology of Basque_. PhD thesis, University of the Basque Country (UPV/EHU). {{% staticref "papers/Egurtzegi2014.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}

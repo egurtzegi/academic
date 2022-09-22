@@ -42,7 +42,7 @@ Click on the <i class = "fas fa-user"></i> next to each project member to visit 
 
  * Gorka Elordieta (UPV/EHU) {{% staticref "https://hittlinguistics.wixsite.com/hitt/gorka-elordieta/" "newtab" %}}<i class = "fas fa-user"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0003-1235-6998/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=qMSZUasAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Gorka-Elordieta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}} {{% staticref "https://cnrs.academia.edu/GorkaElordieta/" "newtab" %}}<i class = "ai ai-academia ai-lg"></i>{{% /staticref %}}
 
- * Dorota Krajewska (UPV/EHU) {{% staticref "https://orcid.org/0000-0002-6909-985X/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=N1fwk4IAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
+ * Dorota Krajewska (UPV/EHU) {{% staticref "https://osf.io/2c7j8/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}} {{% staticref "https://orcid.org/0000-0002-6909-985X/" "newtab" %}}<i class = "ai ai-orcid ai-lg"></i>{{% /staticref %}} {{% staticref "https://scholar.google.com/citations?user=N1fwk4IAAAAJ/" "newtab" %}}<i class = "ai ai-google-scholar ai-lg"></i>{{% /staticref %}} {{% staticref "https://www.researchgate.net/profile/Dorota-Krajewska/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
  * Iñigo Urrestarazu-Porta (CNRS-IKER, UPPA & UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
@@ -50,7 +50,7 @@ Click on the <i class = "fas fa-user"></i> next to each project member to visit 
 
 Project Publications:
 ==============
- * Egurtzegi, A. & G. Elordieta. 2022 [2023]. A history of the Basque prosodic systems. In press in _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+ * Egurtzegi, A. & G. Elordieta. 2023 [online 2022]. A history of the Basque prosodic systems. In press in _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
  * Egurtzegi, A. 2022. Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
