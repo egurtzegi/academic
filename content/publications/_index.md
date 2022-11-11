@@ -21,11 +21,11 @@ In all papers, the open-access icon <i class = "ai ai-open-access ai-lg"></i> li
 
 Journal publications
 ==============
-  * Accepted [with J. Blevins] Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. Accepted for publication in _Linguistic Typology_.
+  * In press [with J. Blevins] Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. In press in _Linguistic Typology_.
 
   * 2023 [online 2022] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. In press in _Phonological Data & Analysis_ 4. {{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
+  * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. _Phonological Data & Analysis_ 4.5, 1–31. {{% staticref "https://doi.org/10.3765/pda.v4art5.67" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://phondata.org/index.php/pda/article/view/67/43" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
 
   * 2022 Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
