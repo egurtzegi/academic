@@ -52,13 +52,13 @@ Project Publications:
 ==============
  * Egurtzegi, A. & G. Elordieta. 2023 [online 2022]. A history of the Basque prosodic systems. In press in _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
+ * Blevins, J. & A. Egurtzegi. 2023 [online 2022]. Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. _Linguistic Typology_ 27. {{% staticref "https://doi.org/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}
+
+ * Krajewska, D., E. Zuloaga & A. Egurtzegi. 2022. Sibilant mergers in 18th-century Basque: A quantitative study. _Phonological Data & Analysis_ 4.5, 1–31. {{% staticref "https://doi.org/10.3765/pda.v4art5.67" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://phondata.org/index.php/pda/article/view/67/43" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
+
  * Egurtzegi, A. 2022. Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
- * Elordieta, G. & A. Egurtzegi. In press. “Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa” [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_.
-
- * Krajewska, D., E. Zuloaga & A. Egurtzegi. In press. “Sibilant mergers in 18th-century Basque: A quantitative study”. In press in _Phonological Data and Analysis_ 4. {{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
-
- * Blevins, J. & A. Egurtzegi. Accepted. “Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action”. Accepted for publication in _Linguistic Typology_.
+ * Elordieta, G. & A. Egurtzegi. In press. Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_.
 
 --------------------------------------------------
 
@@ -76,9 +76,9 @@ Organized Conferences & Workshops:
 
 Invited Talks & Conference Contributions:
 ==============
-1.  Egurtzegi, A. 2021. Sibilant contrasts and sibilant merger in Mixean Basque. Lancaster Phonetics Laboratory (U. of Lancaster, UK).
+1.  Egurtzegi, A. 2021. "Sibilant contrasts and sibilant merger in Mixean Basque". Lancaster Phonetics Laboratory (U. of Lancaster, UK).
 2.  Egurtzegi, A. 2021. “Reconstructing Proto-Basque prosody and the development of the modern Basque prosodic diversity”. Séminaire CLLE-ERSSàB (Université Bordeaux Montaigne, France).
-3.  Egurtzegi, A. 2021. Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. Séminaires de Recherches en Phonétique et Phonologie (U. Sorbonne Nouvelle, Paris, France).
+3.  Egurtzegi, A. 2021. "Final obstruent voicing in Lakota: Phonetic evidence and phonological implications". Séminaires de Recherches en Phonétique et Phonologie (U. Sorbonne Nouvelle, Paris, France).
 4.  Elordieta, G. & A. Egurtzegi. 2021. “Lexical and non-lexical tones in Northern Bizkaian Basque”. UD Workshop on Basque Linguistics (University of Deusto, Spain).
 5.  Elordieta, G. & A. Egurtzegi. 2022. “Lexical and non-lexical tones in Basque revisited”. OCP-19 (University of Deusto, Spain).
 6.  Zuloaga, E. & D. Krajewska. 2022. “Sociohistorical explanations for sibilant mergers in Basque”, 11th Historical Sociolinguistics Network Conference (University of Murcia, Spain).
@@ -87,5 +87,8 @@ Invited Talks & Conference Contributions:
 9.  Egurtzegi , A., J. Cronenberg, M. Gubian, J. Harrington & H. Ruch. 2022. “La aspiración de /s/ en andaluz: el largo camino de la post-lexicalidad a la lexicalización”. Congrès International de Linguistique et de Philologie Romanes 30 (University of La Laguna, Spain).
 10.  Krajewska, D., E. Zuloaga & A. Egurtzegi. 2022. “A quantitative analysis of sibilant mergers in 18th-century Basque”. International Conference on Historical Linguistics 25 (University of Oxford, UK).
 11.  Egurtzegi, A. & G. Elordieta. 2022. “A history of the Basque prosodic systems”. International Conference on Historical Linguistics 25 (University of Oxford, UK).
+12.  Egurtzegi, A. 2022 “Phonological features conditioned by contact with Gascon in Zuberoan Basque”. Basque Summer Tutorial in Language Documentation (U. Bordeaux-Montaigne & Uni Konstanz, Larraine, France).
+13.  Egurtzegi, A. 2022. “When time is the key: Analyzing time-varying data in laboratory phonology”. LPRG - Laboratory Phonology Research Group (Université Paris Cité, Paris, France).
+14.  Egurtzegi, A. 2022. “Andalusian pre-to-post-aspiration and the life cycle of sound change”. Workshop on Sound Change. Departamento de Lengua Española y Lingüística General (UNED, Madrid, Spain).
 
 --------------------------------------------------
