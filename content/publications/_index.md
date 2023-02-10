@@ -25,6 +25,8 @@ Journal publications
 
   * 2023 [online 2022] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
+  * 2023 [with S. Coretta, T. Roettger, J. Casillas, et al.] “Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses”. In press in _Advances in Methods and Practices in Psychological Science_. {{% staticref "https://psyarxiv.com/q8t2k/" "newtab" %}}<i class = "ai ai-arxiv ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/3bmcp/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}{{% staticref "https://github.com/many-speech-analyses/many_analyses" "newtab" %}}<i class="fab fa-github"></i>{{% /staticref %}}. The code and discussion of our team's analysis can be found here {{% staticref "https://osf.io/g9bq5/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}.
+
   * 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. _Phonological Data & Analysis_ 4.5, 1–31. {{% staticref "https://doi.org/10.3765/pda.v4art5.67" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://phondata.org/index.php/pda/article/view/67/43" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
 
   * 2022 Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
@@ -65,7 +67,7 @@ Journal publications
 
 Book chapters
 ==============
-  * 2022 [with G. Elordieta] Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In press in _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_. {{% staticref "papers/Elordieta-Egurtzegi-2022.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2022 [with G. Elordieta] Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In Barberia Aurrekoetxea, I. & Iribar Ibabe, A. (eds.), _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_. Bilbao: Deusto University Press, 319-337. {{% staticref "papers/Elordieta-Egurtzegi-2022.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2019 [with B. Ariztimuño] /f/-ren sarrera eta sorrera euskaran [Introduction and inception of /f/ in Basque], in Epelde & Jauregi (eds.), _Bihotz ahots. M.L. Oñederra irakaslearen omenez_, Bilbao: UPV/EHU, 197–213. {{% staticref "papers/EgurtzegiAriztimuno2019.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
