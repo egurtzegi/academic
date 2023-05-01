@@ -84,6 +84,7 @@ Book chapters
 
 Refereed Conference Publications
 ==============
+  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque. To be published in the _Proceedings of ICPhS 2023_. Prague: IPA. {{% staticref "Nasalance_ICPhS_subm.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2015 [õ] sudurkarituaren igoera ekialdeko euskalkietan [Raising of nasalized [õ] in the eastern Basque dialects]. _Ikergazte: International research in Basque_. Bilbao: UEU, 39–45.
 
