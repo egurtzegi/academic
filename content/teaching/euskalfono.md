@@ -1,6 +1,6 @@
 ---
 title: Euskararen Fonetika eta Fonologia (UPPA)
-date: 2020-05-06
+date: 2022-05-06
 
 # View.
 #   1 = List
@@ -21,7 +21,7 @@ Honakoa euskararen fonetika eta fonologia lantzen dituen sarrera kurtsoa da. Has
 --------------------------------------------------
 Egitasmoa
 ==============
-  * 2020ko gaitegia eta informazio orokorra <a href="egitasmoa.pdf" target="_blank" rel="noopener">[pdf]</a>
+  * 2022ko gaitegia eta informazio orokorra <a href="egitasmoa.pdf" target="_blank" rel="noopener">[pdf]</a>
 --------------------------------------------------
 
 
@@ -30,6 +30,7 @@ Gaiak
 1.- Gaia: Oinarrizko zenbait konzeptu
 --------------------------------------------------
   * Klasean erabiltako filminak <a href="1GAIA.pdf" target="_blank" rel="noopener">[pdf]</a></li>
+  * IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa euskaraz <a href="IPA_Kiel_2021_full_eus.pdf" target="_blank" rel="noopener">[pdf]</a>
   * IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa frantsesez <a href="IPA_Kiel_2019_full_fra.pdf" target="_blank" rel="noopener">[pdf]</a>
 
 2.- Gaia: Euskararen fonologia
