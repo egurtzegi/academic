@@ -1,0 +1,813 @@
+---
+title: "A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque"
+author:
+  - "Ander Egurtzegi"
+  - "Andrea García-Covelo"
+  - "Iñigo Urrestarazu-Porta"
+institute: "Congress"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["default", "mySlides.css", "style.css", "animate.xaringan.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+    seal: false
+---
+
+
+```{r setup, include=FALSE} 
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r xaringanExtra}
+xaringanExtra::use_webcam()
+xaringanExtra::use_tile_view()
+```
+
+
+name: title
+class: left, middle
+background-image: url(img/logo-cnrs.png), url(img/logo-iker.png), url(img/logo-lmu.png), url(img/logo-ehu-gardena-2.png), url(img/logo-uppa.jpg), url(img/icphs2023.png)
+background-position: 22% 93%, 38% 93%, 60% 93%, 78% 93%, 95% 93%, 90% 50%
+background-size: 8%, 18%, 15%, 17%, 15%, 50%
+background-color: darkgrey
+
+# A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque
+
+.oneline[Ander Egurtzegi
+
+.extrasmall[ander.egurtzegi@iker.cnrs.fr]]
+
+.oneline[Andrea García-Covelo
+
+.extrasmall[andrea.garcia@phonetik.uni-muenchen.de]]
+
+.oneline[Iñigo Urrestarazu-Porta
+
+.extrasmall[inigo.urrestarazu-porta@iker.cnrs.fr]]
+
+.fancy[Prage | `r Sys.Date()`]
+
+<!-- this ends up being the title slide since seal = FALSE-->
+
+---
+
+# Glottal fricatives
+
+```{r glottal-fricative, fig.show = "hold", fig.align = "center", out.height="75%"}
+knitr::include_graphics("img/ipa-chart-glottal-fricative.png")
+```
+
+---
+# How about a nasal(ized) glottal fricative h̃?
+<div style = "position:fixed; left:30px; bottom:30px; font-size:80%; text-align:left">
+Walker, Rachel & Pullum, Geoffrey K. 1999. Possible and Impossible Segments. <em>Language</em> 75(4). 764-780. doi: <a href="https://doi.org/10.2307/417733">10.2307/417733</a>.
+</div>
+--
+
+```{r nasal-glottal, fig.show = "hold", fig.align = "center"}
+knitr::include_graphics("img/ipa-chart-nasal-glottal.png")
+```
+
+???
+
+Walker & Pullum 1999
+
+The impossibility attributed to /˜h/ is rooted in the aerodynamic definition of nasality; whether or not enough air-stream can go through the nasal cavity once it has produced glottal friction and after it has been divided between the nasal and the oral tract. However, nasalized aspirates are not as problematic from an articulatory perspective, where any sound produced with a lowered velum can be considered nasal.
+
+---
+class: center
+background-image: url(img/h-nasal-distribution-world.png)
+background-position: 50% 50%
+background-size: cover
+
+# An extremely rare opposition
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Moran, Steven & McCloy, Daniel (eds.). 2019. <em>Phoible 2.0</em>. <a href="http://phoible.org">http://phoible.org</a>.
+</div>
+---
+class: center
+background-image: url(img/h-distribution-world.png)
+background-position: 50% 50%
+background-size: cover
+
+# An extremely rare opposition
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Moran, Steven & McCloy, Daniel (eds.). 2019. <em>Phoible 2.0</em>. <a href="http://phoible.org">http://phoible.org</a>.
+</div>
+---
+class: animated, slideInDown
+
+# Let's listen to them
+
+.pull-left[
+<img src="img/dinner.jpg"
+     width="424" height="370">
+
+<figure>
+<audio controls>
+	<source src="img/0003-299-aihai-cut.m4a">
+</audio>
+     <figcaption>aihai 'dinner'</figcaption>
+</figure>
+]
+.pull-right[
+<img src="http://dreamicus.com/data/dew/dew-01.jpg"
+     width="424" height="370">
+
+<figure>
+<audio controls>
+	<source src="img/0003-64-ihitza-cut.m4a">
+</audio>
+     <figcaption>ihitza 'dew'</figcaption>
+</figure>
+]
+---
+background-image: url(img/hearing.jpg)
+background-position: 20% 50%
+background-size: 30%
+
+# Previous literature on Basque nasalized aspirates
+
+--
+
+.pull-right[
+<br>
+<br>
+One acoustic analysis of h vs h̃ (Egurtzegi & Carignan 2020)
+
+A handful of illustrative spectrograms (Egurtzegi 2023) 
+
+]
+
+<div style = "position:fixed; left: 30px; bottom:30px; right:50px; font-size:80%; text-align:left">
+Hualde, José Ignacio. 1993. Topics in Souletin phonology. In J.I Hualde & J. Ortiz de Urbina (eds.) <em>Generative Studies in Basque Linguistics</em>, pp. 289-327. John Benjamins.
+<br>
+Egurtzegi, Ander. 2018. On the phonemic status of nasalized /h/ in Modern Zuberoan Basque. <em>Linguistics</em> 56. 1353-1367. doi: <a href="https://doi.org/10.1515/ling-2018-0024">10.1515/ling-2018-0024</a>.
+<br>
+Egurtzegi, Ander & Carignan, Christopher. 2020. A typological rarity: the /h/ vs. /h/ contrast of Mixean Basque. <em>Labphon</em> 17.
+<br>
+Egurtzegi, Ander. 2023. /h/ hasperen sudurkarituaren inguran [On the nasalized aspiration /h/]. <em>International Journal of Basque Linguistics and Philology</em> 57.
+</div>
+
+???
+Mainly impressionistic
+
+Larrasquet (1932): Ṽh̃Ṽ vs VhV
+
+Hualde (1993): h̃ based in the assumption that nasality spreads to adjacent vowels in Basque
+
+Historical research h < *n
+
+Yet, the acoustic analysis are not optimal for studying nasality
+Record in Larraine to fill the gap
+
+---
+background-image: url(img/pink-box.png)
+background-position: 50% 30%
+background-size: 90%
+# Research is pressing
+<div style = "position:relative; left: 0px; top:80px; font-size:150%; text-align:center">
+Basque is an endangered language (vulnerable according to UNESCO)
+</div>
+
+
+---
+background-image: url(img/pink-box.png), url(img/pink-arrow.png), url(img/pink-square.png), url(img/red-arrow.png), url(img/red-square.png)
+background-position: 50% 30%, 20% 50%, 10% 86%, 80% 50%, 90% 86%
+background-size: 90%, 10%, 37%, 10%, 37%
+# Research is pressing
+<div style = "position:relative; left: 0px; top:80px; font-size:150%; text-align:center;">
+Basque is an endangered language (vulnerable according to UNESCO)
+</div>
+
+<div style = "position:relative; left: -10px; top:285px; font-size:150%"; text-align:"center">
+(Almost?) All Basque varieties
+<br>
+other than the standard
+</div>
+
+<div style = "position:relative; left: 300px; top:170px; font-size:150%; text-align:center; color:white;">
+Particularly
+<br>the Basque varieties
+<br>spoken in the
+<br>Northern Basque Country
+<br>
+in France
+</div>
+---
+
+class: animated, slideOutLeft
+background-image: url(img/red-dot.png), url(img/red-dot.png), url(img/black-line.png)
+background-position: 40% 50%, 80% 50%, 100% 50%
+background-size: 5%, 5%, 75%
+
+# Historical background
+<div style = "position:relative; left: -110px; top:130px; text-align:center; font-size:110%">
+500-800 AD
+<br>
+<br>
+<br>
+<br>
+Lenition of intervocalic /n/
+<br>
+<br>
+/VnV/ > /Vh̃V/
+</div>
+
+<div style = "position:relative; left: 335px; top:-50px; text-align:center; font-size:110%">
+1000-1300 AD
+<br>
+<br>
+<br>
+<br>
+Laryngeal loss
+<br>
+only in post-tonic last syllable
+<br>
+in (North) Eastern varieties
+<br>
+<br>
+/hV.'hV.hV/ > /hV.hV.V/
+</div>
+
+---
+class: animated, slideInRight
+background-image: url(img/red-dot.png), url(img/red-dot.png), url(img/black-line.png)
+background-position: 25% 50%, 75% 50%, 0% 50%
+background-size: 5%, 5%, 75%
+
+# Historical background
+<div style = "position:relative; left: -295px; top:130px; text-align:center; font-size:110%">
+1600-1900 AD
+<br>
+<br>
+<br>
+<br>
+Loss of nasality in aspirates
+<br>
+in most Basque varieties
+<br>
+<br>
+/Vh̃V/ > /VhV/
+</div>
+
+<div style = "position:relative; left: 275px; top:-75px; text-align:center; font-size:110%">
+Today
+<br>
+<br>
+<br>
+<br>
+Nasalization of aspirates
+<br>
+preserved in Zuberoan
+<br>
+<br>
+ehi 'finger' vs. eh̃i 'easy'
+</div>
+
+---
+
+# Research questions
+
+Is nasalization os aspirates still found in Zuberoan variaties of Basque 
+--
+(> Larraine Basque)?
+
+--
+
+If yes, let's describe it
+
+If yes, how about younger generations?
+
+---
+class: inverse
+
+## A note on Larraine
+.center[
+<video show controls disablepictureinpicture width="640" height="480">
+<source src="img/zoom-larraine.mp4" type="video/mp4" align="center">
+</video>
+]
+???
+Aim: Locate Larraine in the map
+
+Further data:
+
+  Zuberoan population: 12716
+  
+  Larraine: 195
+  
+  Passive knowledge: 22.8%
+  
+  Effective usage: 5.8%
+  
+  Speakers among the oldest population
+  
+---
+class: center, middle
+# Experimental design
+
+--
+
+## Stimuli + SpeechRecorder + Nasalance device
+
+---
+background-image: url(img/larrasquet.png)
+background-position: 50% 50%
+background-size: 22%
+
+## Stimuli: source
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Larrasquet, Jean. 1939. <em>Le Basque de la Basse-Soule</em>. Paris: C. Klincksieck.
+</div>
+
+---
+background-image: url(img/larrasquet.png), url(img/basse-soule.png)
+background-position: 20% 35%, 50% 50%
+background-size: 10%, 25%
+
+## Stimuli: source
+
+---
+background-image: url(img/larrasquet.png), url(img/basse-soule.png), url("img/haut-soule.png")
+background-position: 10% 35%, 35% 40%, 70% 50%
+background-size: 10%, 15%, 30%
+
+## Stimuli: source
+
+---
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+  </div>
+</div>
+
+???
+n of each category
+
+---
+background-image: url(img/cow.png)
+background-position: 8% 63%
+background-size: 20%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+  </div>
+</div>
+---
+background-image: url(img/heart.png)
+background-position: 8% 83%
+background-size: 20%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi 'cow'</p>
+    <p>
+    bihotz</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+  </div>
+</div>
+---
+background-image: url(img/duck.png)
+background-position: 45% 65%
+background-size: 18%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi 'cow'</p>
+    <p>bihotz 'heart'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+    <p>
+    ahate < lat. anatem</p>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+  </div>
+</div>
+---
+background-image: url(img/carnival.jpg)
+background-position: 45% 70%
+background-size: 25%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi 'cow'</p>
+    <p>bihotz 'heart'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+    <p>
+    ahate 'duck'</p>
+    <p>
+    ihaute</p>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+  </div>
+</div>
+---
+background-image: url(img/onion.png)
+background-position: 79% 70%
+background-size: 18%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi 'cow'</p>
+    <p>bihotz 'heart'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+    <p>
+    ahate 'duck'</p>
+    <p>
+    ihaute 'carnival'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+        <p>
+    uɲhu</p>
+  </div>
+</div>
+---
+background-image: url(img/first.png)
+background-position: 79% 70%
+background-size: 10%
+
+## Stimuli: wordlist
+<div class="row">
+  <div class="column"">
+    <h2>/h/</h2>
+    <p>
+    behi 'cow'</p>
+    <p>bihotz 'heart'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>/h̃/</h2>
+    <p>
+    ahate 'duck'</p>
+    <p>
+    ihaute 'carnival'</p>
+  </div>
+  
+  <div class="column"">
+    <h2>Assimilated</h2>
+        <p>
+    uɲhu 'onion'</p>
+        <p>
+    lehen</p>
+  </div>
+</div>
+
+---
+background-image: url("img/speech-recorder-behi.jpg"), url("img/speech-recorder-uhue.jpg")
+background-position: 10% 50%, 90% 50%
+background-size: 43%, 43%
+
+## Prompting: SpeechRecorder
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Draxler, Christoph & Jänsch, Klaus. 2004 SpeechRecorder - a Universal Platform Independent Multi-Channel Audio Recording Software. In <em>Proc. of
+LREC</em>. 559-562. <a href="https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/">https://www.bas.uni-muenchen.de/Bas/software/speechrecorder/ </a>.
+</div>
+
+???
+SpeechRecorder
+
+Randomized order
+
+checked with a Zuberoan informant
+
+French translation, because of potentially unknown words, different pronuntiation, iliterate Basque
+
+No graphic differentiation between oral or nasal segments
+
+---
+## Nasalance device
+
+```{r image_nasalance, fig.show = "hold", out.height="100%", out.width="100%", fig.align = "center"}
+
+knitr::include_graphics("img/nasalance.jpg")
+```
+
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Glotal Enterprises NAS-1 SEP. <a href="https://www.glottal.com/theNASSystem.html#">https://www.glottal.com/theNASSystem.html#</a>
+</div>
+---
+
+## Nasalance device
+.pull-left[
+```{r image_nasalance_front, fig.show = "hold", out.height="80%", out.width="80%", fig.align = "default"}
+
+knitr::include_graphics("img/nasalance-front.jpeg")
+
+```
+]
+.pull-right[
+```{r image_nasalance_side, fig.show = "hold", fig.align = "default"}
+
+knitr::include_graphics("img/nasalance-side.jpg")
+
+```
+]
+---
+background-image: url(img/setup.jpg)
+background-position: 50% 50%
+background-size: cover
+
+# The setup
+
+---
+class: inverse, middle, center, animated, bounceInDown
+
+# Data analysis
+
+
+---
+## Participants
+
+<img src="img/participants.jpeg"
+     width="900px" height="450px">
+
+     
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+<a href="https://stablecog.com">https://stablecog.com</a>.
+</div>
+
+
+???
+5 participants
+
+60-70 yo
+
+4 male : 1 female
+
+L1 Larraine Basque
+
+L2 French at age 5
+
+Left Larraine or Zuberoa for work, but returned
+---
+
+## The data
+
+Band-pass filter (80-10000 Hz)
+
+--
+
+Two measurements:
+
+-   $NasalM = \frac{A_n}{\mu_A}$
+
+-   $Nasalance = \frac{A_n} {A_n + A_o} \times 100$
+
+--
+
+$z = \frac{x - \bar{x}_{participant}} {SD_{participant}}$
+
+--
+
+$M_{z_{phone}}$
+
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Boersma, Paul & Weenink, David. 2022. <em>Praat. Doing phonetics by computer</em>. <a href="https://www.praat.org">https://www.praat.org</a>.
+<br>
+R Core Team. 2022. <em>R: A language and Environment for Statistical Computing</em>. <a href="https://www.R-project.org/">https://www.R-project.org/</a>.
+<br>
+Wickhan, Hadley <em>et al.</em>. 2019. Welcome to the tidyverse. <em>Journal of Open Source Software</em> 43(4). doi: <a href="https://doi.org/10.21105/joss.01686">10.21105/joss.01686</a>.
+</div>
+---
+
+## The data
+
+### N
+```{r}
+library(magrittr)
+load("../data/hdata-m-new-sp-encoding-1.RData")
+nrow(hdata.m.new_sp_encoding)
+```
+
+--
+
+.pull-left[
+### By category
+```{r}
+hdata.m.new_sp_encoding %>% dplyr::count(etym_asp)
+```
+]
+
+--
+
+.pull.right[
+### By speaker
+```{r}
+hdata.m.new_sp_encoding %>% dplyr::group_by(speaker_new) %>% dplyr::count(etym_asp) %>% tidyr::pivot_wider(names_from = etym_asp, values_from = n)
+```
+]
+
+---
+
+## Bayesian generalized mixed-effects model with brms: variables
+
+```{r formula, echo=FALSE}
+load("../data/nasl.mod.RData")
+load("../data/nasM.mod.RData")
+nasl.mod$formula
+nasM.mod$formula
+```
+
+<div style = "position:fixed; left: 30px; bottom:30px; font-size:80%">
+Bürkner, Paul-Christian. 2017. brms: An R Package for Bayesian
+  Multilevel Models Using Stan. <em>Journal of Statistical Software</em> 80(1). 1-28. doi: <a href="https://doi.org/10.18637/jss.v080.i01">10.18637/jss.v080.i01</a>
+  
+???
+2 Bayesian generalized mixed-effects models
+
+Response variables: nasalance.z.median, nasal.m.z.median
+
+Fixed effects: etymological category of aspirate + trial amplitude normalization
+
+Random effects:
+random slopes and intercepts with allowing for correlated slopes for speaker and lexical item
+
+---
+background-image: url(img/prior-beta.png), url(img/prior-sd.png), url(img/prior-correlation.svg)
+background-position: 5% 50%, 50% 50%, 95% 50%
+background-size: 30%, 30%, 32%
+
+## Bayesian generalized mixed-effects model: the priors
+
+```{r priors, message=FALSE, warning=FALSE}
+library(magrittr)
+library(ggplot2)
+
+range <- seq(-10, 10, 0.05)
+
+b <- distributional::dist_student_t(df = 5, mu = 0, sigma = 2)
+b.plot <- tibble::tibble(x = range,
+               y = unlist(density(b,
+                                  range))) %>%
+  ggplot(aes(x, y)) +
+  geom_line() +
+  theme_bw() +
+  labs(x = "", y = "Density", title = "Prior effect distributions",
+       caption = "student-t distribution, df = 5, mu = 0, sd = 2")
+
+sds <- distributional::dist_truncated(
+  distributional::dist_student_t(df = 3,
+                                 mu = 0,
+                                 sigma = 2.5), lower = 0)
+
+sds.plot <- tibble::tibble(
+  x = range,
+  y = density(
+    sds,
+    at = range) %>%
+    unlist()) %>%
+  ggplot(aes(x, y)) +
+  geom_line() +
+  theme_bw() +
+  labs(x = "", y = "Density", title = "Prior SD distributions",
+       caption = "student-t distribution, df = 3, mu = 0, sd = 2.5") +
+  xlim(0, 12)
+
+ggsave("img/prior-beta.png", plot = b.plot)
+ggsave("img/prior-sd.png", plot = sds.plot)
+
+```
+
+---
+background-image: url(img/tools.jpg)
+background-position: 70% 50%
+background-size: 50%
+
+## Bayesian generalized mixed-effects model: further specs
+
+8 chains of 10000 iterations (5000 warm-up)
+
+8 chores
+
+delta = 0.999
+
+max. tree depth = 12
+
+---
+background-image: url(img/posteriors_nasalance.png), url(img/posteriors_nasalm.png)
+background-position: 9% 50%, 91% 50%
+background-size: 45%, 45%
+
+## Posterior distributions
+
+
+---
+
+background-image: url(img/nasalm-z-median-per-etym-asp--boxplot-and-beeswarm-2.png)
+backround-position: 50% 50%
+background-size: 50%
+
+## By speaker
+
+
+---
+background-image: url(img/nasalance-z-median-per-words-with-nasal-and-oral-aspirates.png)
+backround-position: 65% 60%
+background-size: 60%
+
+## By word
+
+
+---
+
+# Discussion
+
+
+Etymologically oral aspirates ≠ Assimilated nasal aspirates ≈ Etymologically nasalized aspirates
+
+### BUT:
+
+Not all speakers produce nasalized aspirates to the same extent
+
+Compared with Larrasquet's lexicon, some lexical items have lost nasalization
+
+---
+
+# Acknowledgements
+DFG-AHRC project: *Speakers, Listeners, Languages: Patterns of Variability and Contrast in Spoken Language Dynamics* (Prof. Dr. Marianne Pouplier, IPS, LMU Munich).
+
+Basque Summer Tutorial in Language Documentation
+
+Maider Bedaxagar
+
+Azler García-Palomino
+
+The kind and patient people from Larraine
+
+
+---
+class: rollIn
+
+# Larraine
+```{r interactive map}
+library(leaflet)
+leaflet() %>% 
+  setView(lat = 43.01889273366674, lng = -0.9556880607342878, zoom = 3) %>% addProviderTiles(providers$OpenStreetMap)
+```
+
+---
+
+## Stimuli: wordlist
+| Etymological /h/                | Etymological /h̃/           | Assimilated                                   |
+|----------------------|-------------------|-------------------------------|
+| *zahar* 'old', *behi* 'cow' | *ahate* 'duck', *uhue* 'honor' | *nihaur* 'myself', *lehen* 'before', *uñhu* 'onion' |
