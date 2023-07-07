@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+* 2023 [online 2022] [with J. Blevins] Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. _Linguistic Typology_ 27.2, 289–311. {{% staticref "https://doi.org/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.degruyter.com/document/doi/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+* 2023 [online 2022] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1, 30-72. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
+* 2022 [with D. Krajewska & E. Zuloaga] Sibilant mergers in 18th-century Basque: A quantitative study. _Phonological Data & Analysis_ 4.5, 1–31. {{% staticref "https://doi.org/10.3765/pda.v4art5.67" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://phondata.org/index.php/pda/article/view/67/43" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
+
 * 2020 [with J. Blevins & J. Ullrich] Final obstruent voicing in Lakota: Phonetic evidence and phonological implications. _Language_ 96.2, 294–337. {{% staticref "https://doi.org/10.1353/lan.2020.0022" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.linguisticsociety.org/sites/default/files/05_96.2Blevins_reduced-ed.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
 * 2020 [with C. Carignan] An acoustic description of Mixean Basque. _Journal of the Acoustical Society of America_ 147.4, 2791–2802. {{% staticref "https://doi.org/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://asa.scitation.org/doi/pdf/10.1121/10.0000996" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}} [Suplementary materials{{% staticref "https://asa.scitation.org/doi/suppl/10.1121/10.0000996/suppl_file/supppub1.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}].
