@@ -49,6 +49,7 @@ Invited Talks & Conference Contributions:
 3.  Egurtzegi, A. & C. Carignan. 2019.  “Amiküzeraren deskribapen akustikoa” [Acoustic description of Mixean Basque]. MLV5en 3. mintegia (University of the Basque Country, Vitoria-Gasteiz, Spain).
 4.  Egurtzegi, A. & C. Carignan. 2019.  “A case of perceptual reanalysis: The ongoing merger of /h/ and /h̃/ in Mixean Basque”. Whither reanalysis? (Humboldt University Berlin).
 5.  Egurtzegi, A. & C. Carignan. 2020.  “Rhinoglottophilia is alive and well in Mixean Basque”. LabPhon17 (University of British Columbia, Vancouver, Canada [held online due to COVID-19]).
-6.  Egurtzegi, A. 2021. Sibilant contrasts and sibilant merger in Mixean Basque. Lancaster Phonetics Laboratory (U. of Lancaster, UK).
+6.  Egurtzegi, A. & D. Krajewska. 2021. "Sibilant contrasts and sibilant merger in Mixean Basque". Lancaster Phonetics Laboratory (U. of Lancaster, UK).
+7.  Egurtzegi, A., D. Krajewska, C. Carignan & I. Urrestarazu-Porta. 2023. “An acoustic description of sibilant contrasts and sibilant merger in Mixean Basque”. 9th International Conference on Experimental Phonetics (CIFE; University of Vigo, Spain).
 
 --------------------------------------------------

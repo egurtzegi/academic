@@ -46,19 +46,21 @@ Click on the <i class = "fas fa-user"></i> next to each project member to visit 
 
  * Iñigo Urrestarazu-Porta (CNRS-IKER, UPPA & UPV/EHU) {{% staticref "https://www.researchgate.net/profile/Inigo-Urrestarazu-Porta/" "newtab" %}}<i class = "ai ai-researchgate ai-lg"></i>{{% /staticref %}}
 
+ * Andrea García-Covelo (IPS-LMU, CNRS-IKER & UPPA)
+
 --------------------------------------------------
 
 Project Publications:
 ==============
  * Egurtzegi, A. & G. Elordieta. 2023 [online 2022]. A history of the Basque prosodic systems. _Diachronica_ 40.1, 30-72. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
- * Blevins, J. & A. Egurtzegi. 2023 [online 2022]. Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. _Linguistic Typology_ 27. {{% staticref "https://doi.org/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.degruyter.com/document/doi/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+ * Blevins, J. & A. Egurtzegi. 2023 [online 2022]. Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. _Linguistic Typology_ 27.2, 289-311. {{% staticref "https://doi.org/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.degruyter.com/document/doi/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
  * Krajewska, D., E. Zuloaga & A. Egurtzegi. 2022. Sibilant mergers in 18th-century Basque: A quantitative study. _Phonological Data & Analysis_ 4.5, 1–31. {{% staticref "https://doi.org/10.3765/pda.v4art5.67" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://phondata.org/index.php/pda/article/view/67/43" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/t6a7w/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}
 
  * Egurtzegi, A. 2022. Goizuetako azentueraren garapena kokatzen Euskara Batu Zaharraren prosodia zehazteko: proposamenen ebaluazioa. [Placing the development of the Goizueta prosodic system to define the prosody of Common Basque: Evaluation of the proposals]. _Fontes Linguae Vasconum_ 133, 9–35. {{% staticref "https://doi.org/10.35462/flv133.1" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.culturanavarra.es/uploads/files/FLV133_01.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
- * Elordieta, G. & A. Egurtzegi. Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In Barberia & Iribar (eds.), _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_. Bilbao: Deusto University Press, 319-337. {{% staticref "papers/Elordieta-Egurtzegi-2022.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+ * Elordieta, G. & A. Egurtzegi. 2022. Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In Barberia & Iribar (eds.), _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_. Bilbao: Deusto University Press, 319-337. {{% staticref "papers/Elordieta-Egurtzegi-2022.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
 --------------------------------------------------
 
@@ -90,5 +92,15 @@ Invited Talks & Conference Contributions:
 12.  Egurtzegi, A. 2022 “Phonological features conditioned by contact with Gascon in Zuberoan Basque”. Basque Summer Tutorial in Language Documentation (U. Bordeaux-Montaigne & Uni Konstanz, Larraine, France).
 13.  Egurtzegi, A. 2022. “When time is the key: Analyzing time-varying data in laboratory phonology”. LPRG - Laboratory Phonology Research Group (Université Paris Cité, Paris, France).
 14.  Egurtzegi, A. 2022. “Andalusian pre-to-post-aspiration and the life cycle of sound change”. Workshop on Sound Change. Departamento de Lengua Española y Lingüística General (UNED, Madrid, Spain).
+15.  Egurtzegi, A., A. García-Covelo & I. Urrestarazu-Porta. 2023. “Endangered language documentation: A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. Linguistics MA program (University of the Basque Country, Vitoria-Gasteiz, Spain).
+16.  Egurtzegi, A., J. Cronenberg & J. Harrington. 2023. “Andalusian aspiration as a path into sound change research”. Linguistics MA program (University of the Basque Country, Vitoria-Gasteiz, Spain).
+17.  Egurtzegi, A., J. Cronenberg & J. Harrington. 2023. “La variación intergeneracional como reflejo del cambio en curso: La post-aspiración de /s/ + oclusiva en andaluz”. Linguistic Variation Talk Series (Universidad Autónoma de Madrid, Spain).
+18.  Egurtzegi, A., A. García-Covelo & I. Urrestarazu-Porta. 2023. “A LabPhon account of Basque /h̃/”. CLT Seminars (Universitat Autònoma de Barcelona, Spain).
+19.  Zuloaga, E., D. Krajewska & A. Egurtzegi. 2023. “Textual genres and linguistic variation: Socio-historical explanations for Basque sibilant mergers”. Historical Sociolinguistics Network Conference (HiSoN-12) (Vrije Universiteit Brussel, Belgium).
+20.  Egurtzegi, A., A. García-Covelo & I. Urrestarazu-Porta. 2023. Documenting nasalized aspirates in Zuberoan Basque. 9th International Conference on Experimental Phonetics (CIFE; University of Vigo, Spain).
+21.  Egurtzegi, A., D. Krajewska, C. Carignan & I. Urrestarazu-Porta. 2023. “An acoustic description of sibilant contrasts and sibilant merger in Mixean Basque”. CIFE 9 (University of Vigo, Spain).
+22.  Egurtzegi, A. 2023. “An ‘impossible’ opposition: /h/ vs. /h̃/ in North-Eastern Basque”. 53rd Linguistic Symposium on Romance Languages (LSRL 53), Phonetics and phonology – Beyond Romance (Paris, France).
+23. Egurtzegi, A., A. García-Covelo & I. Urrestarazu-Porta. 2023. “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague).
+
 
 --------------------------------------------------
