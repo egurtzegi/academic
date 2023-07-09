@@ -31,4 +31,4 @@ Selected recent talks
 
 Selected upcoming talks
 ==============
- * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague).
+ * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague). {{% staticref "slides/h/prague.html" "newtab" %}}[slides]{{% /staticref %}}
