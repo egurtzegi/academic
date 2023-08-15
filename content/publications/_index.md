@@ -23,7 +23,7 @@ Journal publications
 ==============
   * 2023 [with J. Blevins] Refining explanation in Evolutionary Phonology: Macro-typologies and targeted typologies in action. _Linguistic Typology_ 27.2, 289–311. {{% staticref "https://doi.org/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.degruyter.com/document/doi/10.1515/lingty-2021-0036" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
-  * 2023 [online 2022] [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1, 30-72. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2023 [with G. Elordieta] A history of the Basque prosodic systems. _Diachronica_ 40.1, 30-72. {{% staticref "http://doi.org/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://www.jbe-platform.com/content/journals/10.1075/dia.20066.egu" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2023 [with S. Coretta, J. Casillas, [...] & T. Roettger] “Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses”. _Advances in Methods and Practices in Psychological Science_ 6.3. {{% staticref "http://doi.org/10.1177/25152459231162567" "newtab" %}}<i class = "ai ai-doi ai-lg"></i>{{% /staticref %}}{{% staticref "https://journals.sagepub.com/doi/full/10.1177/25152459231162567" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}{{% staticref "https://osf.io/3bmcp/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}{{% staticref "https://github.com/many-speech-analyses/many_analyses" "newtab" %}}<i class="fab fa-github"></i>{{% /staticref %}}. The code and discussion of our team's analysis can be found here {{% staticref "https://osf.io/g9bq5/" "newtab" %}}<i class = "ai ai-osf ai-lg"></i>{{% /staticref %}}.
 
@@ -84,7 +84,7 @@ Book chapters
 
 Refereed Conference Publications
 ==============
-  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque. To be published in the _Proceedings of ICPhS 2023_. Prague: IPA. {{% staticref "papers/Nasalance_ICPhS_subm.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque. To be published in the _Proceedings of ICPhS 2023_. Prague: IPA. {{% staticref "papers/ICPhS2023-Egurtzegietal.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2015 [õ] sudurkarituaren igoera ekialdeko euskalkietan [Raising of nasalized [õ] in the eastern Basque dialects]. _Ikergazte: International research in Basque_. Bilbao: UEU, 39–45.
 
