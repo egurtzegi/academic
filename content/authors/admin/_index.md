@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a historical phonologist and occasional labphonista at the [Centre National de la Recherche Scientifique](http://www.cnrs.fr/) at [IKER UMR5478](http://www.iker.cnrs.fr/?lang=en). I mainly work on the typology of sound change, with a focus on the historical changes found in [Basque](https://en.wikipedia.org/wiki/Basque_language).
+I am a historical laboratory phonologist at the [Centre National de la Recherche Scientifique](http://www.cnrs.fr/) at [IKER UMR5478](http://www.iker.cnrs.fr/?lang=en). I mainly work on the typology of sound change, with a focus on the historical changes found in [Basque](https://en.wikipedia.org/wiki/Basque_language).
 
 I have worked on a wide range of topics including metathesis, u-fronting, nasalized aspiration, consonant cluster resolution, accentual shifts, final obstruent voicing, and acoustic descriptions of endangered dialects. You can find most of these papers in the publications section of this website.
 
