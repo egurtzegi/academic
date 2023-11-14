@@ -17,6 +17,11 @@ header:
 
 Selected recent talks
 ==============
+  
+  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “Does Basque have an impossible phonological opposition?”. BCBL Speech and Bilingualism Talks. {{% staticref "slides/bcbl/2023-larraine-nasals-bcbl.html" "newtab" %}}[slides]{{% /staticref %}}
+
+  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague). {{% staticref "https://urrestarazu.gitlab.io/slides-icphs/2023-larraine-nasals-icphs.html" "newtab" %}}[slides]{{% /staticref %}}
+
   * 2023  “An ‘impossible’ opposition: /h/ vs. /h̃/ in North-Eastern Basque”. 53rd Linguistic Symposium on Romance Languages (LSRL 53), Phonetics and phonology – Beyond Romance (Paris, France). {{% staticref "slides/h/paris.html" "newtab" %}}[slides]{{% /staticref %}}
 
   * 2023  [with D. Krajewska, C. Carignan & I. Urrestarazu-Porta] “An acoustic description of sibilant contrasts and sibilant merger in Mixean Basque”. 9th International Conference on Experimental Phonetics (CIFE, University of Vigo, Spain). {{% staticref "https://urrestarazu.gitlab.io/slides/2023-vigo-sibilants.html" "newtab" %}}[slides]{{% /staticref %}}
@@ -31,4 +36,4 @@ Selected recent talks
 
 Selected upcoming talks
 ==============
- * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague). {{% staticref "https://urrestarazu.gitlab.io/slides-icphs/2023-larraine-nasals-icphs.html" "newtab" %}}[slides]{{% /staticref %}}
+ * 
