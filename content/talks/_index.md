@@ -31,9 +31,3 @@ Selected recent talks
   * 2022  [with J. Cronenberg & J. Harrington] “Andalusian pre-to-post-aspiration and the life cycle of sound change”. Workshop on Sound Change. Departamento de Lengua Española y Lingüística General (UNED, Madrid, Spain). {{% staticref "slides/UNED-Slides.pdf" "newtab" %}}[slides]{{% /staticref %}}
 
   * 2022  “When time is the key: Analyzing time-varying data in laboratory phonology”. LPRG - Laboratory Phonology Research Group (Université Paris Cité, Paris, France).
-
---------------------------------------------------
-
-Selected upcoming talks
-==============
- * 
