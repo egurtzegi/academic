@@ -67,6 +67,8 @@ Journal publications
 
 Book chapters
 ==============
+  * In press. Metathesis. In Ledgeway et al. (eds.), _The Wiley Blackwell Companion to Diachronic Linguistics_. Wiley-Blackwell. {{% staticref "papers/MetathesisDiaComEgurtzegi.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
+
   * 2022 [with G. Elordieta] Bizkaiko iparraldeko euskararen doinu-azentuaren berrikusketa [A revision of the pitch accent of Northern Bizkaian Basque]. In Barberia & Iribar (eds.), _Papers on Basque Linguistics in Honor of Jon Andoni Franco Elorza_. Bilbao: Deusto University Press, 319-337. {{% staticref "papers/Elordieta-Egurtzegi-2022.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
 
   * 2019 [with B. Ariztimuño] /f/-ren sarrera eta sorrera euskaran [Introduction and inception of /f/ in Basque], in Epelde & Jauregi (eds.), _Bihotz ahots. M.L. Oñederra irakaslearen omenez_, Bilbao: UPV/EHU, 197–213. {{% staticref "papers/EgurtzegiAriztimuno2019.pdf" "newtab" %}}<i class = "ai ai-open-access ai-lg"></i>{{% /staticref %}}
