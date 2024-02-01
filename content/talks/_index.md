@@ -18,7 +18,7 @@ header:
 Selected recent talks
 ==============
   
-  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “Does Basque have an impossible phonological opposition?”. BCBL Speech and Bilingualism Talks. {{% staticref "slides/bcbl/2023-larraine-nasals-bcbl.html" "newtab" %}}[slides]{{% /staticref %}}
+  * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “Does Basque have an impossible phonological opposition?”. BCBL Speech and Bilingualism Talks. {{% staticref "slides/larraine-osoa/2023-larraine-nasals-bcbl.html" "newtab" %}}[slides BCBL]{{% /staticref %}}  {{% staticref "slides/larraine-osoa/2024-larraine-h-ehu.html" "newtab" %}}[slides UPV/EHU]{{% /staticref %}}
 
   * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque”. 20th International Congress of Phonetic Sciences (ICPhS, Prague). {{% staticref "https://urrestarazu.gitlab.io/slides-icphs/2023-larraine-nasals-icphs.html" "newtab" %}}[slides]{{% /staticref %}}
 
