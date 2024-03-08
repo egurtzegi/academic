@@ -17,6 +17,8 @@ header:
 
 Selected recent talks
 ==============
+
+  * 2024 [with A. García-Covelo & I. Urrestarazu-Porta] “/h/ vs. /h̃/: Estudiando una oposición fonológica 'imposible' del euskera desde la fonología de laboratorio”. Fonética Open Days Salamanca. {{% staticref "slides/larraine-osoa/2024-larraine-h-fod.html" "newtab" %}}[slides]{{% /staticref %}}
   
   * 2023 [with A. García-Covelo & I. Urrestarazu-Porta] “Does Basque have an impossible phonological opposition?”. BCBL Speech and Bilingualism Talks. {{% staticref "slides/larraine-osoa/2023-larraine-nasals-bcbl.html" "newtab" %}}[slides BCBL]{{% /staticref %}}  {{% staticref "slides/larraine-osoa/2024-larraine-h-ehu.html" "newtab" %}}[slides UPV/EHU]{{% /staticref %}}
 
